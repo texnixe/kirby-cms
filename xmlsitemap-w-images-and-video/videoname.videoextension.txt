@@ -1,0 +1,7 @@
+Title: Title of Video
+----
+Description: Description of video
+----
+Duration: length in minutes
+----
+Thumb: url/to/thumb/filename
